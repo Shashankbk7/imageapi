@@ -1,0 +1,29 @@
+.informationFlex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.informationFlex img{
+    width: 60%;
+    height: 60%;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.8);
+}
+h1{
+    font-size: 1.8rem;
+    text-align: center;
+    padding: 1rem;
+}
+h2{
+    padding: 1rem;
+}
+.sectionFlex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.sectionFlex img{
+    width: 10%;
+    height: 10%;
+}
